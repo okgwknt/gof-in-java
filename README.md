@@ -1,3 +1,3 @@
-# gof-in-jav
+# gof-in-java
 
 ## j
