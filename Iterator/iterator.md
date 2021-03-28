@@ -1,4 +1,4 @@
-# Iterator
+# Iterator Pattern
 
 iterate = 繰り返す
 
