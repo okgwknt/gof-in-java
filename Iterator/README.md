@@ -6,7 +6,7 @@ iterate = 繰り返す
 
 ループ変数のような役割を果たします
 
-```
+```java
 public interface Iterator {
     public abstract boolean hasNext();
     public abstract Object next();
