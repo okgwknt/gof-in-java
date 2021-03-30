@@ -17,7 +17,7 @@ public interface Iterator {
 
 hasNext は次の要素が存在するか，next は次の要素を得るためのメソッドです
 
-#
+---
 
 Iterator = 反復子
 

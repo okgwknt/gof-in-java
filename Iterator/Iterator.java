@@ -1,4 +1,4 @@
 public interface Iterator {
-    public abstract boolean hasNext(); //　次の要素が存在するかどうか
-    public abstract Object next(); // 
+    public abstract boolean hasNext();
+    public abstract Object next();
 }
