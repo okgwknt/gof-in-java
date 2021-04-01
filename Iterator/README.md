@@ -17,12 +17,10 @@ public interface Iterator {
 
 hasNext は次の要素が存在するか，next は次の要素を得るためのメソッドです
 
----
+<!-- Iterator = 反復子 -->
 
-Iterator = 反復子
+<!-- ConcreteIterator = 具体的な反復子 -->
 
-ConcreteIterator = 具体的な反復子
+<!-- Aggregate = 集合体 -->
 
-Aggregate = 集合体
-
-ConcreteAggregate = 具体的な集合体
+<!-- ConcreteAggregate = 具体的な集合体 -->
