@@ -10,5 +10,6 @@ Gof のデザインパターンについての学習
 
 ## リンク
 
-- [Iterator](./Iterator)
-- [Adapter](./Adapter)
+- [Iterator](./doc/Iterator)
+- [Adapter](./doc/Adapter)
+- [Template Method](./doc/TemplateMethod)
