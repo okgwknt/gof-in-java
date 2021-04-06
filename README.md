@@ -2,7 +2,7 @@
 
 ## 概要
 
-Gof のデザインパターンについての学習
+Gof のデザインパターンについての学習用
 
 ちゃんと理解したら README をしっかり書くよ
 
@@ -13,6 +13,7 @@ Gof のデザインパターンについての学習
 - [Iterator](./doc/Iterator)
 - [Adapter](./doc/Adapter)
 - [Template Method](./doc/TemplateMethod)
+- [Factory Method](./doc/FactoryMethod)
 
 ## 参考文献
 
