@@ -10,10 +10,12 @@ Gof のデザインパターンについての学習用
 
 ## リンク
 
-- [Iterator](./doc/Iterator)
-- [Adapter](./doc/Adapter)
-- [Template Method](./doc/TemplateMethod)
-- [Factory Method](./doc/FactoryMethod)
+- [Iterator](./src/Iterator)
+- [Adapter](./src/Adapter)
+- [Template Method](./src/TemplateMethod)
+- [Factory Method](./src/FactoryMethod)
+- [Singleton](./src/Singleton)
+- [Prototype](./src/Prototype)
 
 ## 参考文献
 
