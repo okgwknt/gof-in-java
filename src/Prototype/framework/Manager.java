@@ -10,7 +10,7 @@ public class Manager {
   }
 
   public Product create(String prototypeName) {
-    Product p = (Product) showcase.get(prototypeName);
-    return p.createCloen();
+    Product product = (Product) showcase.get(prototypeName);
+    return product.createClone();
   }
 }
