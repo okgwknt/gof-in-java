@@ -16,6 +16,7 @@ Gof のデザインパターンについての学習用
 - [Factory Method](./src/FactoryMethod)
 - [Singleton](./src/Singleton)
 - [Prototype](./src/Prototype)
+- [Builder](./src/Builder)
 
 ## 参考文献
 
