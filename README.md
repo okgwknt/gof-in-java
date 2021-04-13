@@ -17,6 +17,10 @@ Gof のデザインパターンについての学習用
 - [Singleton](./src/Singleton)
 - [Prototype](./src/Prototype)
 - [Builder](./src/Builder)
+- [Abstract Factory](./src/AbstractFactory)
+- [Bridge](./src/Bridge)
+- [Strategy](./src/Strategy)
+- [Composite](./src/Composite)
 
 ## 参考文献
 
