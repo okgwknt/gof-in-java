@@ -21,6 +21,8 @@ Gof のデザインパターンについての学習用
 - [Bridge](./src/Bridge)
 - [Strategy](./src/Strategy)
 - [Composite](./src/Composite)
+- [Decorator](./src/Decorator)
+- [Visitor](./src/Vistor)
 
 ## 参考文献
 
