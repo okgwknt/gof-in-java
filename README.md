@@ -22,7 +22,7 @@ Gof のデザインパターンについての学習用
 - [Strategy](./src/Strategy)
 - [Composite](./src/Composite)
 - [Decorator](./src/Decorator)
-- [Visitor](./src/Vistor)
+- [Visitor](./src/Visitor)
 
 ## 参考文献
 
