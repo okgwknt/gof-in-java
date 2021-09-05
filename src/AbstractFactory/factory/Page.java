@@ -1,4 +1,4 @@
-package factory;
+package AbstractFactory.factory;
 
 import java.io.FileWriter;
 import java.io.IOException;

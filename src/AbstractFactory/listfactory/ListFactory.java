@@ -1,9 +1,9 @@
-package listfactory;
+package AbstractFactory.listfactory;
 
-import factory.*;
+import AbstractFactory.factory.*;
 
 public class ListFactory extends Factory {
-  public Link createLink(String caption, String url) {
+  public ListLink createLink(String caption, String url) {
     return new ListLink(caption, url);
   }
 

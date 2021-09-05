@@ -1,4 +1,6 @@
-package factory;
+package AbstractFactory.factory;
+
+import AbstractFactory.listfactory.ListPage;
 
 public abstract class Factory {
   public static Factory getFactory(String classname) {
@@ -18,5 +20,5 @@ public abstract class Factory {
 
   public abstract Tray createTray(String caption);
 
-  public abstract Page createPage(String title, String author);
+  public abstract ListPage createPage(String title, String author);
 }

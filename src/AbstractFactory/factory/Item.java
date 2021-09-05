@@ -1,4 +1,4 @@
-package factory;
+package AbstractFactory.factory;
 
 public abstract class Item {
   protected String caption;
